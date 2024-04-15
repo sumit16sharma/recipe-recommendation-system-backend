@@ -77,7 +77,7 @@ Before running the application, ensure you have the following installed:
 
 <h2 name="frontend">Frontend Repository</h2>
 
-The frontend repository for this project can be found at [frontend-repo-link](frontend-repo-link).
+The frontend repository for this project can be found at [frontend-repo-link](https://github.com/sumit16sharma/recipe-recommendation-system-frontend).
 
 <h2 name="contributing">Contributing</h2>
 
